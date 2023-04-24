@@ -1,0 +1,15 @@
+Batch size 64 / batch Norm 적용
+
+Found 141048 validated image filenames belonging to 11 classes.
+Found 35262 validated image filenames belonging to 11 classes.
+Found 22058 validated image filenames belonging to 11 classes.
+Epoch 1/5
+2204/2204 [==============================] - 4582s 2s/step - loss: 1.0283 - accuracy: 0.6260 - val_loss: 0.9647 - val_accuracy: 0.6322
+Epoch 2/5
+2204/2204 [==============================] - 4539s 2s/step - loss: 0.8053 - accuracy: 0.6841 - val_loss: 2.3499 - val_accuracy: 0.4207
+Epoch 3/5
+2204/2204 [==============================] - 4849s 2s/step - loss: 0.7419 - accuracy: 0.7066 - val_loss: 0.8913 - val_accuracy: 0.6856
+Epoch 4/5
+2204/2204 [==============================] - 4488s 2s/step - loss: 0.6867 - accuracy: 0.7281 - val_loss: 1.4872 - val_accuracy: 0.6258
+Epoch 5/5
+ 220/2204 [=>............................] - ETA: 53:31 - loss: 0.6141 - accuracy: 0.7515
